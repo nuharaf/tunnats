@@ -1,0 +1,11 @@
+{
+    "agent_id" : "123456789",
+    "port" : 8080,
+    "connect" : "connect.ngs.global",
+    "creds_path" : "/home/nuha/.nkeys/creds/synadia/First/First.creds",
+    "username" : "nuha2",
+    "password" : "Dk8%og7KlL8TD1%yua@lR!",
+    "keepalive" : 10,
+    "keepalive_timeout" : 50,
+    "loglevel" : "info"
+}
