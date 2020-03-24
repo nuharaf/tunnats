@@ -26,7 +26,7 @@ go run main.go client
 ```
 
 #### Creating Tunnel
-Invoke the http api on the tunnats client, this example use [httpie](httpie.org)
+Invoke the http api on the tunnats client, this example use [httpie](https://httpie.org)
 ```
 http localhost:8080/create_listener/123456789 remote_host=localhost remote_port=22 local_host=localhost local_port=10000
 ```
